@@ -1,2 +1,2 @@
 # AWS-projects
-new project repository
+Projects based on Amazon Web services with various tools
