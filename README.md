@@ -6,6 +6,8 @@ The main objective of this project was to set up and deploy a simple web applica
 Amazon Web Services (AWS) and configure it through Visual Studio Code (VS Code) using 
 remote SSH connection. This project marks the first step toward building a full DevOps CI/CD 
 pipeline. 
+
+
 Tools and Technologies Used: 
 • Amazon Web Services (AWS) – For hosting the web application 
 • Visual Studio Code (VS Code) – For development and configuration 
@@ -14,6 +16,8 @@ Tools and Technologies Used:
 • .pem File – For secure authentication 
 • Linux Commands – For server setup and configuration 
 • Web Browser – To test and verify deployment 
+
+
 Project Description: 
 In this project, I created and deployed a basic web application using AWS EC2 instance and 
 configured it through VS Code. 
