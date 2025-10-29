@@ -4,8 +4,7 @@ Set Up a Web App Using AWS and VS Code
 Objective: 
 The main objective of this project was to set up and deploy a simple web application using 
 Amazon Web Services (AWS) and configure it through Visual Studio Code (VS Code) using 
-remote SSH connection. This project marks the first step toward building a full DevOps CI/CD 
-pipeline. 
+remote SSH connection. 
 
 
 Tools and Technologies Used: 
